@@ -5,3 +5,4 @@ The pdf file is the total report and has all the relevant information, feel free
 
 ![image](https://github.com/caoduycp03/Udemy_Database_Architecture_Design/assets/127480964/e7644ff7-36c6-4c4f-a252-be9b50058237)
 
+![image](https://github.com/caoduycp03/Udemy_Database_Architecture_Design/assets/127480964/182b73d4-80c5-4f1c-b3ea-a3651150dbcd)
